@@ -1,0 +1,10 @@
+# Ignore local API key storage / environment configurations
+.env
+__pycache__/
+.streamlit/
+
+# Ignore local long-term memory cache file so you don't share your private chat logs
+hawking_long_term_memory.json
+
+# Optional: Ignore the data folder if your Hawking archives are too large or private
+# data/

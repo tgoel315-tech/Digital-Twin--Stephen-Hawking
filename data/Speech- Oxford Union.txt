@@ -1,0 +1,157 @@
+According to the Boshongo people of central Africa, in the beginning there was only darkness, water, and the great god Bumba.  One day Bumba, in pain from a stomach ache, vomited up the sun. The sun dried up some of the water, leaving land. Still in pain, Bumba vomited up the moon, the stars, and then some animals – the leopard, the crocodile, the turtle, and, finally man.
+
+ 
+
+This creation myth, like many others, tries to answer the questions we all ask. Why are we here? Where did we come from? The answer generally given is that humans were of comparatively recent origin because it must have been obvious, even at early times, that the human race was improving in knowledge and technology. So it can't have been around that long, or it would have progressed even more. For example, according to Bishop Usher, the Book of Genesis placed the creation of the world at 9am in the morning, on 27th October 4,004 BC. On the other hand, the physical surroundings, like mountains and rivers, change very little in a human lifetime. They were therefore thought to be a constant background, and either to have existed forever as an empty landscape or to have been created at the same time as the humans.
+
+ 
+
+Not everyone however, was happy with the idea that the universe had a beginning. For example, Aristotle, the most famous of the Greek philosophers, believed the universe had existed forever. Something eternal is more perfect than something created. He suggested the reason we see progress was that floods, or other natural disasters, had repeatedly set civilization back to the beginning. The motivation for believing in an eternal universe was the desire to avoid invoking divine intervention, to create the universe, and set it going. Conversely, those who believed the universe had a beginning, used it as an argument for the existence of God, as the first cause, or prime mover of the universe.
+
+ 
+
+If one believed that the universe had a beginning, the obvious question was, ‘What happened before the beginning?’  What was God doing before He made the world? Was He preparing Hell for people who asked such questions? The problem of whether or not the universe had a beginning was a great concern to the German philosopher, Immanuel Kant. He felt there were logical contradictions, or antimonies, either way. If the universe had a beginning, why did it wait an infinite time before it began? Kant called that the thesis. On the other hand, if the universe had existed forever, why did it take an infinite time to reach the present stage? He called that the antithesis. Both the thesis and the antithesis depended on Kant's assumption, along with almost everyone else, that time was absolute. That is to say, it went from the infinite past, to the infinite future. Independently of any universe that might or might not exist in this background.
+
+ 
+
+This is still the picture in the mind of many scientists today. However in 1915, Einstein introduced his revolutionary General Theory of Relativity. In this, space and time were no longer absolute, no longer a fixed background to events. Instead, they were dynamical quantities that were  shaped by the matter and energy in the universe. They were defined only within the universe, so it made no sense to talk of a time before the universe began. It would be like asking for a point south of the South Pole. It is not defined.
+
+ 
+
+If the universe was essentially unchanging in time, as was generally assumed before the 1920s, there would be no reason that time should not be defined arbitrarily far back. Any so-called beginning of the universe would be artificial, in the sense that one could extend the history back to earlier times. Thus it might be that the universe was created last year, but with all the memories and physical evidence, to look like it was much older. This raises deep philosophical questions about the meaning of existence. I shall deal with these by adopting what is called, the positivist approach. In this, the idea is that we interpret the input from our senses in terms of a model we make of the world. One cannot ask whether the model represents reality, only whether it works. A model is a good model, if first it interprets a wide range of observations, in terms of a simple and elegant model. And second, if the model  makes definite predictions that can be tested, and possibly falsified, by observation.
+
+ 
+
+In terms of the positivist approach, one can compare two models of the universe. One in which the universe was created last year, and one in which the universe existed much longer. The model in which the universe existed for longer than a year can explain things like identical twins, that have a common cause more than a year ago. On the other hand, the model in which the universe was created last year, cannot explain such events. So the first model is better. One cannot ask whether the universe really existed before a year ago, or just appeared to. In the positivist approach, they are the same.
+
+ 
+
+In an unchanging universe, there would be no natural starting point. The situation changed radically however, when Edwin Hubble began to make observations with the hundred-inch telescope on Mount Wilson, in the 1920s. Hubble found that stars are not uniformly distributed throughout space, but are gathered together in vast collections called galaxies. By measuring the light from galaxies, Hubble could determine their velocities. He was expecting that as many galaxies would be moving towards us, as were moving away. This is what one would have in a universe that was unchanging with time. But to his surprise, Hubble found that nearly all the galaxies were moving away from us. Moreover, the further galaxies were from us, the faster they were moving away. The universe was not unchanging with time, as everyone had thought previously. It was expanding. The distance between distant galaxies, was increasing with time.
+
+ 
+
+The expansion of the universe, was one of the most important intellectual discoveries of the 20th century, or of any century. It transformed the debate about whether the universe had a beginning. If galaxies are moving apart now, they must have been closer together in the past. If their speed had been constant, they would all have been on top of one another about 15 billion years ago. Was this, the beginning of the universe?
+
+ 
+
+Many scientists were still unhappy with the universe having a beginning, because it seemed to imply that physics broke down. One would have to invoke an outside agency, which for convenience, one can call God, to determine how the universe began. They therefore advanced theories in which the universe was expanding at the present time, but didn't have a beginning. One was the Steady State theory, proposed by Bondi, Gold, and Hoyle in 1948.
+
+ 
+
+In the Steady State theory, as galaxies moved apart, the idea was that new galaxies would form from matter that was supposed to be continually being created throughout space. The universe would have existed forever and would have looked the same at all times. This last property had the great virtue, from a positivist point of view, of being a definite prediction that could be tested by observation. The Cambridge radio astronomy group, under Martin Ryle, did a survey of weak radio sources in the early 1960s. These were distributed fairly uniformly across the sky, indicating that most of the sources, lay outside our galaxy. The weaker sources would be further away, on average.
+
+ 
+
+The Steady State theory predicted the shape of the graph of the number of sources, against source strength. But the observations showed more faint sources than predicted, indicating that the density sources was higher in the past. This was contrary to the basic assumption of the Steady State theory, that everything was constant in time. For this, and other reasons, the Steady State theory was abandoned.
+
+ 
+
+Another attempt to avoid the universe having a beginning was the suggestion that there was a previous contracting phase, but because of rotation and local irregularities the matter would not all fall to the same point. Instead, different parts of the matter would miss each other and the universe would expand again with the density remaining finite. Two Russians, Lifshitz and Khalatnikov, actually claimed to have proved that a general contraction without exact symmetry would always lead to a bounce, with the density remaining finite. This result was very convenient for Marxist Leninist dialectical materialism, because it avoided awkward questions about the creation of the universe. It therefore became an article of faith for Soviet scientists.
+
+ 
+
+When Lifshitz and Khalatnikov published their claim, I was a 21-year old research student looking for something to complete my PhD thesis. I didn't believe their so-called proof and set out with Roger Penrose to develop new mathematical techniques to study the question. We showed that the universe couldn't bounce. If Einstein's General Theory of Relativity is correct, there will be a singularity, a point of infinite density and space-time curvature, where time has a beginning.
+
+ 
+
+Observational evidence to confirm the idea that the universe had a very dense beginning came in October 1965, a few months after my first singularity result, with the discovery of a faint background of microwaves throughout space. These microwaves are the same as those in your microwave oven, but very much less powerful. They would heat your pizza only to -271.3 degrees centigrade, not much good for defrosting the pizza, let alone cooking it. You can actually observe these microwaves yourself. Set your television to an empty channel. A few per cent of the ‘snow’ you see on the screen will be caused by this background of microwaves. The only reasonable interpretation of the background is that it is radiation left over from an early very hot and dense state. As the universe expanded, the radiation would have cooled until it is just the faint remnant we observe today.
+
+ 
+
+During the 1970s, I had been working mainly on black holes. But my interest in cosmology was renewed by the suggestions that the early universe had gone through a period of inflationary expansion in which its size grew at an ever-increasing rate, like the way prices go up every year. The world record for inflation was in Germany after the First World War. Prices rose by a factor of ten million in a period of 18 months. But that was nothing compared to inflation in the early universe. The universe expanded by a factor of a million trillion trillion in a tiny fraction of a second. Unlike inflation in prices, inflation in the early universe was a very good thing. It produced a very large, and uniform universe, just as we observe.
+
+ 
+
+In early 1982, I wrote a pre-print, proposing that the seeds for structures in our universe, galaxies, stars and us, could be created by quantum effects during inflation. This was basically the same mechanism as so-called Hawking Radiation from a black hole horizon that I had predicted a decade earlier, except that this time it came from the cosmological horizon. We held a Nuffield workshop in Cambridge that summer, attended by all the major players in the field. At this meeting, we established most of our present picture of inflation, including the all important density fluctuations which give rise to galaxy formation, and so to our existence. Several people contributed to the final answer. This was ten years before fluctuations in the microwave sky were discovered by the COBE satellite in 1993, so theory was way ahead of experiment.
+
+ 
+
+Cosmology became a precision science another ten years later, in 2003, with the first results from the WMAP satellite.  WMAP produced a wonderful map of the temperature of the cosmic microwave sky, a snapshot of the universe at about one hundredth of its present age. The irregularities you see are predicted by inflation, and they mean that some regions of the universe had a slightly higher density than others. The gravitational attraction of the extra density slows the expansion of that region, and can eventually cause it to collapse to form galaxies and stars. So look carefully at the map of the microwave sky. It is the blue print for all the structure in the universe. We are the product of quantum fluctuations in the very early universe. God really does play dice.
+
+ 
+
+Superseding WMAP today there is the Planck satellite, with the much higher resolution map of the Universe you see here on stage. Planck is testing our theories in earnest, and may even detect the imprint of gravitational waves predicted by inflation. This would be quantum gravity written across the sky.
+
+ 
+
+Although the singularity theorems of Penrose and myself, in the 1960s and early 70s predicted that the universe had a beginning, they didn't say how it had begun. The equations of General Relativity would break down at the singularity. Thus Einstein's theory cannot predict how the universe will begin, but only how it will evolve once it has begun. There are two attitudes one can take to the results of Penrose and myself. One is that God chose how the universe began for reasons we could not understand. This was the view of Pope John Paul. At a conference on cosmology in the Vatican, the Pope told the delegates that it was OK to study the universe after it began, but they should not inquire into the beginning itself, because that was the moment of creation, and the work of God. I was glad he didn't realize I had presented a paper at the conference, suggesting how the universe began. I didn't fancy the thought of being handed over to the Inquisition, like Galileo.
+
+ 
+
+The other interpretation of our results, which is favoured by most scientists, is that it indicates that the General Theory of Relativity breaks down in the very strong gravitational fields in the early universe. It has to be replaced by a more complete theory. One would expect this anyway because General Relativity does not take account of the small-scale structure of matter, which is governed by quantum theory. This does not matter normally, because the scale of the universe is enormous compared to the microscopic scales of quantum theory. But when the universe is the Planck size, a billion trillion trillionth of a centimetre the two scales are the same, and quantum theory has to be taken into account.
+
+ 
+
+In order to understand the origin of the universe, we need to combine the General Theory of Relativity with quantum theory. The best way of doing so seems to be to use Feinman's idea of a sum over histories. Richard Feinman was a colourful character, who played the bongo drums in a strip joint in Pasadena, and was a brilliant physicist. He proposed that a system got from a state A to a state B by every possible path or history.
+
+ 
+
+Each path or history has a certain amplitude or intensity, and the probability of the system going from A to B, is given by adding up the amplitudes for each path. There will be a history in which the moon is made of blue cheese, but the amplitude is low, which is bad news for mice.
+
+ 
+
+The probability for a state of the universe at the present time is given by adding up the amplitudes for all the histories that end with that state. But how did the histories start? This is the ‘origin question’ in another guise. Does it require a Creator to decree how the universe began? Or is the initial state of the universe, determined by a law of science?
+
+ 
+
+In fact, this question would arise even if the histories of the universe went back to the infinite past. But it is more immediate if the universe began only 15 billion years ago. The problem of what happens at the beginning of time is a bit like the question of what happened at the edge of the world, when people thought the world was flat. Is the world a flat plate, with the sea pouring over the edge? I have tested this experimentally: I have been round the world, and I have not fallen off.
+
+ 
+
+As we all know, the problem of what happens at the edge of the world was solved when people realized that the world was not a flat plate, but a curved surface. Time however, seemed to be different. It appeared to be separate from space and to be like a model railway track. If it had a beginning, there would have to be someone to set the trains going.
+
+ 
+
+Einstein's General Theory of Relativity unified time and space as space-time but time was still different from space, and was like a corridor which either had a beginning and end, or went on forever. However, when one combines General Relativity with quantum theory, there is an alternative viewpoint in which time can behave like another direction in space under extreme conditions. This is called the Euclidean approach to quantum gravity and time behaving in this way is called imaginary time.  It is imaginary in a mathematical sense but not in the usual sense of pretending.
+
+ 
+
+After the 1982 work shop in Cambridge, I spent time at the Institute of Theoretical Physics in Santa Barbara. I talked to Jim Hartle about how to apply the Euclidean approach to cosmology. According to this approach, the quantum wave function of the whole universe is given by a Feinman sum over a certain class of histories in imaginary time. Because imaginary time behaves like another direction in space, histories in imaginary time can be closed surfaces like the surface of the Earth, with no beginning or end. Jim and I concluded that this was the only natural choice.
+
+ 
+
+So we formulated the ‘no boundary proposal’: the boundary condition that governs the origin of the universe, is that it has no boundary. If our proposal is correct, it would get rid of the problem of time having a beginning, in a similar way in which we got rid of the edge of the world. Suppose the beginning of the universe was like the South Pole of the earth with degrees of latitude playing the role of time. The universe would start as a point at the South Pole. As one moves north, the circles of constant latitude, representing the size of the universe, would expand. To ask what happened before the beginning of the universe would become a meaningless question, because there is nothing south of the South Pole.
+
+ 
+
+Time, as measured in degrees of latitude, would have a beginning at the South Pole, but the pole is much like any other point, at least so I have been told. I have been to Antartica but not to the South Pole. The same laws of Nature hold at the South Pole, as in other places. This would remove the age-old objection to the universe having a beginning, that it would be a place where the normal laws broke down. The beginning of the universe would be governed by the laws of science.
+
+ 
+
+In this picture, which Jim Hartle and I developed, the spontaneous quantum creation of the universe would be a bit like the formation of bubbles of steam in boiling water. The idea is that the most probable histories of the universe would be like the surfaces of the bubbles. Many small bubbles would appear, and then disappear again. These would correspond to mini-universes that would expand but would collapse again while still of microscopic size. They are possible alternative universes but they are not of much interest since they do not last long enough to develop galaxies and stars, let alone intelligent life. A few of the little bubbles, however, will grow to a certain size at which they are safe from recollapse. They will continue to expand at an ever increasing rate and will form the bubbles we see. They will correspond to universes that would start off expanding at an ever-increasing inflationary rate. Much of my own recent research explores these and other predictions of Hartle's and my no boundary proposal.
+
+ 
+
+Why is there something rather than nothing?
+
+Why do we exist?
+
+Why this particular set of laws, and not some other?
+
+ 
+
+I believe the answer to all these questions, is M-theory. M-theory is the only unified theory that has all the properties that we think the final theory ought to have.  It is not a theory in the usual sense, but it is a whole family of different theories each of which is a good description of observations only in some range of physical situations.
+
+ 
+
+M-theory predicts that a great many universes were created out of nothing. These multiple universes can arise naturally from physical law. Each universe has many possible histories and many possible states at later times, that is, at times like the present, long after their creation. Most of these states will be quite unlike the universe we observe and quite unsuitable for the existence of any form of life. Only a very few would allow creatures like us to exist. Thus our presence selects out from this vast array only those universes that are compatible with our existence. Although we are puny and insignificant on the scale of the Cosmos, this makes us in a sense, lords of creation.
+
+ 
+
+There is still hope that we see the first evidence for M-theory at the LHC particle accelerator in Geneva. From an M-theory perspective it only probes low energies but we might be lucky and see a weaker signal of fundamental theory, such as supersymmetry.  I think the discovery of supersymmetric partners for the known particles would revolutionize our understanding of the universe. I don't feel the same way about the Higgs boson, which is why I bet $100 that it would not be found at the LHC. Physics would have been far more interesting if it hadn’t been found, but unfortunately I lost another bet.
+
+ 
+
+The beginning of the Universe itself in the Hot Big Bang is the ultimate high-energy laboratory for testing M-theory, and our ideas about the building blocks of space-time and matter. Different theories leave behind different fingerprints in the current structure of the universe, so astrophysical data can give us clues about the unification of all the forces of nature.
+
+ 
+
+There are many ambitious experiments planned beyond Planck. We will map the positions of billions of galaxies, and with the help of supercomputers like Cosmos, we will better understand our place in the universe. Perhaps one day, we will be able to use gravitational waves to look right back into the heart of the Big Bang. Most recent advances in cosmology have been achieved from space where there are uninterrupted views of our vast and beautiful universe. But we must also continue to go into space for the future of humanity. I don't think we will survive another thousand years without escaping beyond our fragile planet. I therefore want to encourage public interest in space, and I've been getting my training in early.
+
+ 
+
+So let me finish by reflecting on the state of the universe. It has been a glorious time to be alive, and doing research in theoretical physics. Our picture of the universe has changed a great deal in the last 50 years, and I'm happy if I have made a small contribution. The fact that we humans, who are ourselves mere collections of fundamental particles of nature, have been able to come to an understanding of the laws governing us, and our universe, is a great triumph. I want to share my excitement and enthusiasm about this quest. So remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist.  Be curious. And however difficult life may seem, there is always something you can do, and succeed at. It matters that you don't just give up.
+
+ 
+
+Thank you for listening.'

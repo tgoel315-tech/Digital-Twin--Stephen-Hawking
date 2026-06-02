@@ -1,0 +1,77 @@
+'Can you hear me.
+
+ 
+
+Twenty three years ago, the idea of being stuck on a desert island, filled me with horror. At that time, I wanted to be in the heart of the action, where things were happening, not stuck in some remote quiet spot. Now that I am older, a desert island suddenly sounds quite appealing. I might get much more work done. But I still don't want to go if there's no crème brûlée. Physics is fascinating, but after all, you can't have it for pudding.
+
+ 
+
+My talk is on black holes. It is said that fact is sometimes stranger than fiction, and nowhere is that more true than in the case of black holes. Black holes are stranger than anything dreamed up by science fiction writers, but they are firmly matters of science fact. To understand them, we need to start with gravity. Although it's by far the weakest of the known forces of nature, it has two crucial advantages over other forces. First, it acts over a long range. The earth is held in orbit by the Sun, 93 million miles away, and the Sun is held in orbit around the centre of the galaxy, about ten thousand light years away. The second advantage is gravity is always attractive, unlike electric forces, which can be attractive or repulsive. These two features mean that for a sufficiently large star, the gravitational attraction between particles, can dominate over all other forces, and lead to gravitational collapse. Despite these facts, the scientific community was slow to realize that massive stars could collapse in on themselves, under their own gravity, and how the object left behind would behave.  Albert Einstein even wrote a paper in 1939, claiming stars could not collapse under gravity, because matter could not be compressed beyond a certain point. Many scientists shared Einstein's gut feeling. The principal exception was the American scientist John Wheeler, who in many ways is the hero of the black hole story.  In his work in the 1950s and 60s, he emphasized that many stars would eventually collapse, and the problems that posed for theoretical physics. He also foresaw many of the properties of the objects which collapsed stars become, that is, black holes.
+
+ 
+
+During most of the life of a normal star, over many billions of years, it will support itself against its own gravity, by thermal pressure, caused by nuclear processes, which convert hydrogen into helium. Eventually, however, the star will exhaust its nuclear fuel. The star will contract. In some cases, it may be able to support itself as a white dwarf star. However Subrahmanyan Chandrasekhar showed in 1930, that the maximum mass of a white dwarf star, is about 1.4 times that of the Sun.  A similar maximum mass was calculated by Soviet physicist, Lev Landau, for a star made entirely of neutrons.
+
+ 
+
+What would be the fate of those countless stars, with greater mass than a white dwarf or neutron star, when they had exhausted nuclear fuel? The problem was investigated by Robert Oppenheimer, of later atom bomb fame. In a couple of papers in 1939, with George Volkoff and Hartland Snyder, he showed that such a star could not be supported by pressure. And that if one neglected pressure a uniform spherically systematic symmetric star would contract to a single point of infinite density. Such a point is called a singularity. All our theories of space are formulated on the assumption that space-time is smooth and nearly flat, so they break down at the singularity, where the curvature of space-time is infinite. In fact, it marks the end of time itself. That is what Einstein found so objectionable.
+
+ 
+
+Then the War intervened. Most scientists, including Robert Oppenheimer, switched their attention to nuclear physics, and the issue of gravitational collapse was largely forgotten.  Interest in the subject revived with the discovery of distant objects, called quasars. The first quasar, 3C 273, was discovered in 1963. Many other quasars were soon discovered. They were bright, despite being at great distances. Nuclear processes could not account for their energy output, because they release only a per cent fraction of their rest mass as pure energy. The only alternative was gravitational energy, released by gravitational collapse.
+
+ 
+
+Gravitational collapses of stars were re-discovered. It was clear that a uniform spherical star would contract to a point of infinite density, a singularity. But what would happen if the star isn't uniform and spherical. Could this cause different parts of the star to miss each other, and avoid a singularity. In a remarkable paper in 1965, Roger Penrose showed there would still be a singularity, using only the fact that gravity is attractive.
+
+ 
+
+The Einstein equations can't be defined at a singularity. This means at this point of infinite density, one can't predict the future. This implies something strange could happen whenever a star collapsed. We wouldn't be affected by the breakdown of prediction, if the singularities are not naked, that is, they are not shielded from the outside. Penrose proposed the Cosmic Censorship Conjecture, all singularities formed by the collapse of stars or other bodies are hidden from view inside black holes. A black hole is a region where gravity is so strong, that light cannot escape. The Cosmic Censorship Conjecture is almost certainly true, because a number of attempts to disprove it have failed.
+
+ 
+
+When John Wheeler introduced the term ‘black hole’ in 1967, it replaced the earlier name, ‘frozen star’. Wheeler's coinage emphasized that the remnants of collapsed stars, are of interest in their own right, independently of how they were formed. The new name caught on quickly. It suggested something dark and mysterious, But the French, being French, saw a more risqué meaning. For years, they resisted the name, trou noir, claiming it was obscene. But that was a bit like trying to stand against le week end, and other franglais. In the end, they had to give in.  Who can resist a name that is such a winner?
+
+ 
+
+From the outside, you can't tell what is inside a black hole.  You can throw television sets, diamond rings, or even your worst enemies into a black hole, and all the black hole will remember is the total mass, and the state of rotation. John Wheeler is known for expressing this principle as, ‘A Black Hole Has No Hair’. To the French, this just confirmed their suspicions.
+
+ 
+
+A black hole has a boundary, called the event horizon. It is where gravity is just strong enough to drag light back, and prevent it escaping. Because nothing can travel faster than light, everything else will get dragged back also. Falling through the event horizon is a bit like going over Niagara Falls in a canoe. If you are above the falls, you can get away if you paddle fast enough, but once you are over the edge, you are lost. There's no way back. As you get nearer the falls, the current gets faster. This means it pulls harder on the front of the canoe than the back.  There's a danger that the canoe will be pulled apart. It is the same with black holes. If you fall towards a black hole feet first, gravity will pull harder on your feet than your head, because they are nearer the black hole. The result is, you will be stretched out longwise, and squashed in sideways. If the black hole has a mass of a few times our sun, you would be torn apart, and made into spaghetti, before you reached the horizon. However, if you fell into a much larger black hole, with a mass of a million times the sun, you would reach the horizon without difficulty. So, if you want to explore the inside of a black hole, make sure you choose a big one. There is a black hole with a mass of about four million times that of the sun, at the centre of our Milky Way galaxy.
+
+ 
+
+Although you wouldn't notice anything particular as you fell into a black hole, someone watching you from a distance would never see you cross the event horizon. Instead, you would appear to slow down, and hover just outside.  Your image would get dimmer and dimmer, and redder and redder, until you were effectively lost from sight. As far as the outside world is concerned, you would be lost forever.
+
+ 
+
+There was a dramatic advance in our understanding of these mysterious phenomena, with a mathematical discovery in 1970. This was that the surface area of the event horizon, the boundary of a black hole, has the property that it always increases when additional matter or radiation falls into the black hole. Moreover, if two black holes collide and merge to form a single black hole, the area of the event horizon around the resulting black hole, is greater than the sum of the areas of the event horizons around the original black holes. These properties suggest that there is a resemblance between the area of the event horizon of a black hole, and conventional Newtonian physics, specifically the concept of entropy in thermodynamics. Entropy can be regarded as a measure of the disorder of a system, or equivalently, as a lack of knowledge of its precise state. The famous second law of thermodynamics says that entropy always increases with time. This discovery was the first hint of this crucial connection.
+
+ 
+
+The analogy between the properties of black holes and the laws of thermodynamics can be extended. The first law of thermodynamics says that a small change in the entropy of a system is accompanied by a proportional change in the energy of the system. Brandon Carter and I found a similar law relating the change in mass of a black hole, to a change in the area of the event horizon. Here the factor of proportionality involves a quantity called the surface gravity, which is a measure of the strength of the gravitational field at the event horizon. If one accepts that the area of the event horizon is analogous to entropy, then it would seem that the surface gravity is analogous to temperature. The resemblance is strengthened by the fact that the surface gravity turns out to be the same at all points on the event horizon, just as the temperature is the same everywhere in a body at thermal equilibrium.
+
+ 
+
+Although there is clearly a similarity between entropy and the area of the event horizon, it was not obvious to us how the area could be identified as the entropy of a black hole itself. What would be meant by the entropy of a black hole? The crucial suggestion was made in 1972, by Jacob Bekenstein, who was a graduate student at Princeton University, and then at the Hebrew University of Jerusalem. It goes like this. When a black hole is created by gravitational collapse, it rapidly settles down to a stationary state, which is characterized by only three parameters: the mass, the angular momentum, and the electric charge. Apart from these three properties, the black hole preserves no other details of the object that collapsed.
+
+ 
+
+His theorem has implications for information, in the cosmologist's sense of information: the idea that every particle and every force in the universe has an implicit answer to a yes-no question. The theorem implies that a large amount of information is lost in a gravitational collapse. For example, the final black-hole state is independent of whether the body that collapsed was composed of matter or antimatter, or whether it was spherical or highly irregular in shape. In other words, a black hole of a given mass, angular momentum, and electric charge, could have been formed by the collapse of any one of a large number of different configurations of matter. So what appears to be the same black hole could be formed by the collapse of a large number of different types of star. Indeed, if quantum effects are neglected, the number of configurations would be infinite, since the black hole could have been formed by the collapse of a cloud of an indefinitely large number of particles, of indefinitely low mass. But could the number of configurations really be infinite.
+
+ 
+
+The uncertainty principle of quantum mechanics implies that only particles with a wavelength smaller than that of the black hole itself, could form a black hole. That means the wavelength would be limited: it could not be infinite. It therefore appears that the number of configurations that could form a black hole of a given mass, angular momentum, and electric charge, although very large, may also be finite. Jacob Bekenstein suggested that from this finite number, one could interpret the entropy of a black hole. This would be a measure of the amount of information that was irretrievably lost, during the collapse when a black hole was created.
+
+ 
+
+The apparently fatal flaw in Bekenstein's suggestion was that if a black hole has a finite entropy that is proportional to the area of its event horizon, it also ought to have a finite temperature, which would be proportional to its surface gravity. This would imply that a black hole could be in equilibrium with thermal radiation, at some temperature other than zero. Yet according to classical concepts, no such equilibrium is possible, since the black hole would absorb any thermal radiation that fell on it, but by definition would not be able to emit anything in return. It cannot emit anything; it cannot emit heat.
+
+ 
+
+This is a paradox. And it's one which I am going to return to in my next lecture, when I'll be exploring how black holes challenge the most basic principle about the predictability of the universe, and the certainty of history, and asking what would happen if you ever got sucked into one.
+
+ 
+
+Thank you.'
