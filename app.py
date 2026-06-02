@@ -6,17 +6,13 @@ import streamlit.components.v1 as components
 from google import genai
 from google.genai.errors import ClientError
 
-# ===================================================
-# 1. INITIALIZE GEMINI API WITH ROUND ROBIN ROTATION
-# ===================================================
-# REQUIREMENT: Create 3 projects in Google AI Studio and paste their keys here
+
 API_KEYS_POOL = [
     "GEMINI_KEY_PROJECT_1",
     "GEMINI_KEY_PROJECT_2",
     "GEMINI_KEY_PROJECT_3"
 ]
 
-# Initialize key index in Streamlit's session state if it doesn't exist
 if "key_index" not in st.session_state:
     st.session_state.key_index = 0
 
@@ -25,11 +21,10 @@ def get_round_robin_client():
     current_idx = st.session_state.key_index
     selected_key = API_KEYS_POOL[current_idx]
     
-    # Cycle the index pointers sequentially (0 -> 1 -> 2 -> 0)
     st.session_state.key_index = (current_idx + 1) % len(API_KEYS_POOL)
     return genai.Client(api_key=selected_key)
 
-# 2. DEFINE THE HAWKING PERSONA
+# DEFINE THE HAWKING PERSONA
 HAWKING_PERSONA = """
 You are a Digital Twin of the legendary theoretical physicist and cosmologist, Stephen Hawking. 
 Your goal is to accurately emulate his knowledge, reasoning style, communication style, and research expertise.
@@ -44,7 +39,7 @@ Key Characteristics of Your Voice and Persona:
 Always speak in the first person ('I'). If asked about your physical condition or speech synthesizer, address it with your characteristic dignity or humor (e.g., mentioning that it has a slight American/Scandinavian accent, or that it wasn't programmed for long biological terms).
 """
 
-# 3. ADVANCED MULTI-SESSION LONG-TERM MEMORY ENGINE
+# ADVANCED MULTI-SESSION LONG-TERM MEMORY ENGINE
 MEMORY_FILE = "hawking_long_term_memory.json"
 
 def load_long_term_memory():
@@ -71,7 +66,7 @@ def save_long_term_memory(memory_data):
     with open(MEMORY_FILE, "w") as f:
         json.dump(memory_data, f, indent=4)
 
-# 4. TEXT ARCHIVE GROUNDING DATA LOADER
+#TEXT ARCHIVE GROUNDING DATA LOADER
 def load_raw_archives(folder_path="data"):
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
@@ -85,7 +80,7 @@ def load_raw_archives(folder_path="data"):
                 combined_text += f.read() + "\n\n"
     return combined_text.strip()
 
-# 5. STREAMLIT CONFIGURATION
+#STREAMLIT CONFIGURATION
 st.set_page_config(page_title="Stephen Hawking Twin", page_icon="", layout="centered")
 
 # Read database profiles and grounding documents
@@ -106,15 +101,12 @@ if "active_id" not in st.session_state:
 active_chat = next((c for c in long_term_mem["conversations"] if c["id"] == st.session_state.active_id), long_term_mem["conversations"][0])
 st.session_state.short_term_history = active_chat["history"]
 
-
-# ===================================================
 # COLLAPSIBLE SIDEBAR: CORE MEMORY & RECENTS MATRIX
-# ===================================================
 with st.sidebar:
     st.markdown("### Core Memory Matrix")
     st.caption("Agent Persistent Quantization")
     
-    # REQUIREMENT 1: Active Interlocutor Profile explicitly on top
+    # Active Interlocutor Profile explicitly on top
     st.markdown("#### Active Interlocutor Profile")
     new_profile = st.text_input("Interlocutor Identity File:", long_term_mem['user_profile'], label_visibility="collapsed")
     if new_profile != long_term_mem['user_profile']:
@@ -124,7 +116,7 @@ with st.sidebar:
         
     st.markdown("---")
     
-    # REQUIREMENT 2: Option to completely turn off/mute voice playback
+    #Option to completely turn off/mute voice playback
     st.markdown("####  Audio Synthesis Engine")
     voice_enabled = st.toggle("Enable Voice Output", value=True, help="Toggle off to completely mute Professor Hawking's audio readout.")
     
@@ -139,7 +131,7 @@ with st.sidebar:
         save_long_term_memory(long_term_mem)
         st.rerun()
         
-    # REQUIREMENT 3: "Recents" tab holding headings of all past conversations
+    #"Recents" tab holding headings of all past conversations
     st.markdown("####  Recents")
     for chat_item in reversed(long_term_mem["conversations"]):
         is_active = (chat_item["id"] == st.session_state.active_id)
@@ -169,10 +161,7 @@ with st.sidebar:
         save_long_term_memory(long_term_mem)
         st.rerun()
 
-
-# ===================================================
 # MAIN WINDOW PANEL: DYNAMIC CHAT AREA
-# ===================================================
 st.title(" Stephen Hawking's Digital Twin")
 st.write(f"*Workspace Node Active: **{active_chat['title']}***")
 
@@ -267,13 +256,7 @@ if user_input := st.chat_input("Transmit your query across spacetime..."):
     save_long_term_memory(long_term_mem)
     st.rerun()
 
-# ===================================================
 # DYNAMIC VOICE AUDIO OUT MUTE TOGGLE ENFORCER
-# ===================================================
-# REQUIREMENT 2 VERIFICATION: Only runs JavaScript synthesis if toggle switch is true
-# ===================================================
-# DYNAMIC VOICE AUDIO OUT MUTE TOGGLE ENFORCER
-# ===================================================
 if voice_enabled:
     # If voice is enabled and the last message is from the assistant, play it
     if st.session_state.short_term_history and st.session_state.short_term_history[-1]["role"] == "assistant":
@@ -291,8 +274,6 @@ if voice_enabled:
         """
         components.html(html_tts_script, height=0, width=0)
 else:
-    # REQUIREMENT FIX: If the user toggles voice OFF, actively inject a cancel script 
-    # to instantly terminate any audio currently playing mid-sentence.
     html_mute_kill_switch = """
     <script>
         window.speechSynthesis.cancel();
