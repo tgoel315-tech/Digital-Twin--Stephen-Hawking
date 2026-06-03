@@ -1,4 +1,4 @@
-# 🌌 Stephen Hawking's Digital Twin 
+# 🌌 Stephen Hawking's Digital Twin
 
 An interactive, educational web application that emulates the voice, knowledge, and reasoning style of Professor Stephen Hawking. Built over the Google Gemini 2.5 Flash API, this project features an authentic mechanical text-to-speech engine, a dynamic memory tracking sidebar, and a software-level high-availability clustering system to bypass standard API rate limits.
 
@@ -6,12 +6,12 @@ An interactive, educational web application that emulates the voice, knowledge, 
 
 ## 🚀 Key Features
 
-* **Authentic Persona Core:** Fine-tuned prompt execution layer enforces Hawking's characteristic first-person perspective (`I`), tight word counts, subtle dry British wit, and visual analogies (e.g., *spaghettification*).
-* **High-Availability 3-Key Round Robin:** Sequentially cycles incoming queries across an array pool of three distinct Google Cloud Project API keys. This scales free tier request limits from **15 RPM to 45 RPM** seamlessly.
-* **Self-Healing Error Interceptor:** Automatically catches `429 RESOURCE_EXHAUSTED` limit flags, handles them gracefully with a visual cooldown timer, and routes requests to active backup keys without breaking application state.
-* **Non-Blocking Client-Side Voice Synthesis:** Utilizes the browser's native Web Speech API to provide low-latency audio feedback. Voice modulations are hardcoded (`rate = 0.95`, `pitch = 0.90`) to mimic his iconic communication hardware texture.
-* **Audio Mute Kill Switch:** Toggling off the voice switch injects a terminal `cancel()` script into the browser DOM, instantly flashing the audio buffer and stopping verbal playback mid-sentence.
-* **"Recents" Session Manager:** Automatically caches separate conversation threads to a local persistent JSON file database and auto-titles tabs based on your opening inquiry.
+- **Authentic Persona Core:** Fine-tuned prompt execution layer enforces Hawking's characteristic first-person perspective (`I`), tight word counts, subtle dry British wit, and visual analogies (e.g., _spaghettification_).
+- **High-Availability 3-Key Round Robin:** Sequentially cycles incoming queries across an array pool of three distinct Google Cloud Project API keys. This scales free tier request limits from **15 RPM to 45 RPM** seamlessly.
+- **Self-Healing Error Interceptor:** Automatically catches `429 RESOURCE_EXHAUSTED` limit flags, handles them gracefully with a visual cooldown timer, and routes requests to active backup keys without breaking application state.
+- **Non-Blocking Client-Side Voice Synthesis:** Utilizes the browser's native Web Speech API to provide low-latency audio feedback. Voice modulations are hardcoded (`rate = 0.95`, `pitch = 0.90`) to mimic his iconic communication hardware texture.
+- **Audio Mute Kill Switch:** Toggling off the voice switch injects a terminal `cancel()` script into the browser DOM, instantly flashing the audio buffer and stopping verbal playback mid-sentence.
+- **"Recents" Session Manager:** Automatically caches separate conversation threads to a local persistent JSON file database and auto-titles tabs based on your opening inquiry.
 
 ---
 
@@ -26,7 +26,7 @@ The system maintains a lightweight footprint by avoiding heavy vector databases 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 hawking-digital-twin/
@@ -36,3 +36,11 @@ hawking-digital-twin/
 ├── README.md                          # Project Documentation
 └── data/                              # Factual Grounding Vault
     └── sample.txt                     # Local text notes/essays for Hawking context
+```
+
+## ## Local Deployment and Production
+1. Install dependencies:
+   ` pip install -r requirements.txt`
+2. Launch app:
+   ` streamlit run app.py`
+    
