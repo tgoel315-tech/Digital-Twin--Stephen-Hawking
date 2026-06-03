@@ -1,10 +1,10 @@
-# 🌌 Stephen Hawking's Digital Twin
+# Stephen Hawking's Digital Twin
 
 An interactive, educational web application that emulates the voice, knowledge, and reasoning style of Professor Stephen Hawking. Built over the Google Gemini 2.5 Flash API, this project features an authentic mechanical text-to-speech engine, a dynamic memory tracking sidebar, and a software-level high-availability clustering system to bypass standard API rate limits.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **Authentic Persona Core:** Fine-tuned prompt execution layer enforces Hawking's characteristic first-person perspective (`I`), tight word counts, subtle dry British wit, and visual analogies (e.g., _spaghettification_).
 - **High-Availability 3-Key Round Robin:** Sequentially cycles incoming queries across an array pool of three distinct Google Cloud Project API keys. This scales free tier request limits from **15 RPM to 45 RPM** seamlessly.
@@ -15,7 +15,7 @@ An interactive, educational web application that emulates the voice, knowledge, 
 
 ---
 
-## 🛠️ Architecture Overview
+## Architecture Overview
 
 The system maintains a lightweight footprint by avoiding heavy vector databases or expensive server-side audio models, relying instead on browser capabilities and a clean procedural routing pipeline:
 
@@ -38,7 +38,7 @@ hawking-digital-twin/
     └── sample.txt                     # Local text notes/essays for Hawking context
 ```
 
-## ## Local Deployment and Production
+##  Local Deployment and Production
 1. Install dependencies:
    ` pip install -r requirements.txt`
 2. Launch app:
